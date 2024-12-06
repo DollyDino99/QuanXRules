@@ -1,16 +1,19 @@
 # NAME: OpenAI
 # AUTHOR: Dino
 # REPO: https://github.com/DollyDino99/QuanXRules
-# UPDATED: 2024-08-13 00:46:56
+# UPDATED: 2024-12-06 12:06:56
 # DOMAIN: 3
-# DOMAIN-SUFFIX: 3
+# DOMAIN-SUFFIX: 5
 # DOMAIN-KEYWORD: 2
 # TOTAL: 8
 DOMAIN,openai-api.arkoselabs.com
 DOMAIN,openaicomproductionae4b.blob.core.windows.net
 DOMAIN,production-openaicom-storage.azureedge.net
+DOMAIN,chatgpt.com
+DOMAIN,ab.chatgpt.com
 DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,openaiapi-site.azureedge.net
 DOMAIN-SUFFIX,openaicom.imgix.net
+DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-KEYWORD,openaicom-api
 DOMAIN-KEYWORD,chatgpt
